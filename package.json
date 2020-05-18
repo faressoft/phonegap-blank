@@ -1,0 +1,11 @@
+{
+  "devDependencies": {},
+  "cordova": {
+    "plugins": {
+      "phonegap-plugin-barcodescanner": {}
+    },
+    "platforms": [
+      "android"
+    ]
+  }
+}
